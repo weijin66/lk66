@@ -18,3 +18,4 @@ jQuery.ajax({
 });
 
 // 这个老板............666666
+console.log("测试gitee->github同步功能");
